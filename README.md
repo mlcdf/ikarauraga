@@ -6,3 +6,5 @@ Almost all the graphic assets (We only operate some color changes) are the work 
 You can find them [here](http://ansimuz.com/site/archives/794) under the CC0 Licence.
 
 We thought we sould do the same for the assets (scripts, sounds, etc...) we made. So, we're giving them away under the CC0 Licence too! Feel free to grab them for your next project!
+
+The binaries for Linux/Windows are available [here](http://ludumdare.com/compo/ludum-dare-35/?action=preview&uid=87871).
