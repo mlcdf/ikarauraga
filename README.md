@@ -1,5 +1,7 @@
 ## Ikarauraga
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf64ea3d3241435688213d41cc18b652)](https://www.codacy.com/app/mlcdf/ikarauraga?utm_source=github.com&utm_medium=referral&utm_content=mlcdf/ikarauraga&utm_campaign=badger)
+
 My friend Clément Stéphano and I made a ripoff of Ikaruga for the Ludum Dare 35. Initialy, we had a better idea in mind, unfortunately, without a graphic designer, we had to give it up.
 
 Almost all the graphic assets (We only operate some color changes) are the work of Luis Zuno ([@ansimuz](https://twitter.com/ansimuz)). So huge thanks to him!
