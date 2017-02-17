@@ -10,5 +10,5 @@
 ## Special thanks
 - Luis Zuno ([@ansimuz](https://twitter.com/ansimuz)) for most the assets.
 
-## Licence
-Everything in the `Scripts` and `Sounds` folders are licensed under the CC0 license.
+## License
+Everything in the `Assets/Scripts` and `Assets/Sounds` folders are licensed under the CC0 license.
